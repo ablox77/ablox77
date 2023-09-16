@@ -4,5 +4,5 @@
 
 Here are some ideas to get you started:-->
 
-- 💻 Check out my portfolio at <a href="https://abloxham.com">abloxham.com</a>
-- 📫 You can reach me at <a href="www.linkedin.com/in/andrew-bloxham">www.linkedin.com/in/andrew-bloxham</a>
+- 💻 Check out my portfolio at <a href="https://abloxham.com" target="_blank">abloxham.com</a>
+- 📫 You can reach me at <a href="www.linkedin.com/in/andrew-bloxham" target="_blank">www.linkedin.com/in/andrew-bloxham</a>
